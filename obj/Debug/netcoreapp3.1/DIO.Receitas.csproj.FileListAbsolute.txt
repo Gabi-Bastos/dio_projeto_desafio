@@ -1,0 +1,13 @@
+C:\Users\jonas\Desktop\projeto desafio\bin\Debug\netcoreapp3.1\DIO.Receitas.exe
+C:\Users\jonas\Desktop\projeto desafio\bin\Debug\netcoreapp3.1\DIO.Receitas.deps.json
+C:\Users\jonas\Desktop\projeto desafio\bin\Debug\netcoreapp3.1\DIO.Receitas.runtimeconfig.json
+C:\Users\jonas\Desktop\projeto desafio\bin\Debug\netcoreapp3.1\DIO.Receitas.runtimeconfig.dev.json
+C:\Users\jonas\Desktop\projeto desafio\bin\Debug\netcoreapp3.1\DIO.Receitas.dll
+C:\Users\jonas\Desktop\projeto desafio\bin\Debug\netcoreapp3.1\DIO.Receitas.pdb
+C:\Users\jonas\Desktop\projeto desafio\obj\Debug\netcoreapp3.1\DIO.Receitas.csprojAssemblyReference.cache
+C:\Users\jonas\Desktop\projeto desafio\obj\Debug\netcoreapp3.1\DIO.Receitas.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\projeto desafio\obj\Debug\netcoreapp3.1\DIO.Receitas.AssemblyInfo.cs
+C:\Users\jonas\Desktop\projeto desafio\obj\Debug\netcoreapp3.1\DIO.Receitas.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\projeto desafio\obj\Debug\netcoreapp3.1\DIO.Receitas.dll
+C:\Users\jonas\Desktop\projeto desafio\obj\Debug\netcoreapp3.1\DIO.Receitas.pdb
+C:\Users\jonas\Desktop\projeto desafio\obj\Debug\netcoreapp3.1\DIO.Receitas.genruntimeconfig.cache

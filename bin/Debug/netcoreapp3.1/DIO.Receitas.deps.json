@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DIO.Receitas/1.0.0": {
+        "runtime": {
+          "DIO.Receitas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO.Receitas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
